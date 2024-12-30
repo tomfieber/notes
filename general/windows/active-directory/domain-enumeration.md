@@ -4,19 +4,21 @@ description: Work out where we are and perform initial domain enumeration
 
 # Domain Enumeration
 
+### Find DNS Servers
+
 {% tabs %}
 {% tab title="Linux" %}
-These commands are handy when working from a Linux machine dropped in the client environment.
-
-### DNS Enumeration
-
-```
-dig
+```bash
+// Some code
+dig ---
 ```
 {% endtab %}
 
 {% tab title="Windows" %}
-
+```powershell
+// Some code
+Get-ChildItem ---
+```
 {% endtab %}
 {% endtabs %}
 
