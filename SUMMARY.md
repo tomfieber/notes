@@ -39,3 +39,6 @@
     * [CSRF](general/active-testing/web-applications/csrf.md)
     * [AUTHZ](general/active-testing/web-applications/authz.md)
     * [Business Logic](general/active-testing/web-applications/business-logic.md)
+* [Windows](general/windows/README.md)
+  * [Active Directory](general/windows/active-directory/README.md)
+    * [Domain Enumeration](general/windows/active-directory/domain-enumeration.md)
