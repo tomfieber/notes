@@ -41,4 +41,5 @@
     * [Business Logic](general/active-testing/web-applications/business-logic.md)
 * [Windows](general/windows/README.md)
   * [Active Directory](general/windows/active-directory/README.md)
+    * [Setup](general/windows/active-directory/setup.md)
     * [Domain Enumeration](general/windows/active-directory/domain-enumeration.md)

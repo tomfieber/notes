@@ -22,5 +22,27 @@ Get-ChildItem ---
 {% endtab %}
 {% endtabs %}
 
+### Get Current Domain
+
+{% tabs %}
+{% tab title="Linux" %}
+
+{% endtab %}
+
+{% tab title="Windows" %}
+PowerView
+
+```
+Get-Domain
+```
+
+AD Module
+
+```
+Get-ADDomain
+```
+{% endtab %}
+{% endtabs %}
+
 
 
