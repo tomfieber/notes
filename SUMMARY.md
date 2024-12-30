@@ -4,6 +4,6 @@
 
 ## General
 
-* [OSINT](general/osint/README.md)
-  * [Hostname Enumeration](general/osint/hostname-enumeration.md)
-  * [Username/Email Enumeration](general/osint/username-email-enumeration.md)
+* [OSINT](general/page-1.md)
+  * [Hostname Enumeration](general/page-2.md)
+  * [Username/Email Enumeration](general/page-3.md)
